@@ -92,6 +92,12 @@ input[type='number'] {
   width: 100%;
 }
 
+.title {
+  display: flex;
+  justify-content: center;
+  color: #FF6F61;
+}
+
 .btn {
   cursor: pointer;
   background-color: #9c88ff;
